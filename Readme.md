@@ -21,6 +21,6 @@ Facilitates data organization and analysis.
 - Example of use
 
 Scenario: A company receives hundreds of PDF invoices and needs to extract the invoice number and date for accounting purposes.
-The script is configured to recognize patterns such as “INVOICE #” and “DATE:”.
-When you run the code, it processes all the PDFs in the directory and extracts the information.
-The extracted data is stored in the database and exported to Excel.
+1. The script is configured to recognize patterns such as “INVOICE #” and “DATE:” (The script is configured to recognize patterns such as “INVOICE #” and “DATE:”, but it can search for any other data, just change the patterns to search for new data.)
+2. When you run the code, it processes all the PDFs in the directory and extracts the information.
+3. The extracted data is stored in the database and exported to Excel.
