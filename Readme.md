@@ -1,4 +1,5 @@
 Extracting any information from PDFs
+This is a python file
 
 Purpose
 The script allows you to read and extract any information from PDF files. It processes the documents, extracts the specified data and organizes it in an Excel spreadsheet and/or inserts it into a MySQL database.
